@@ -1,6 +1,5 @@
-package Services;
+package com.LukashovVolkonenkov.project.Services;
 
-import Models.Diabetes;
 import org.springframework.stereotype.Service;
 
 @Service

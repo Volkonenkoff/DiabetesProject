@@ -1,4 +1,4 @@
-package Models;
+package com.LukashovVolkonenkov.project.Models;
 
 import lombok.Getter;
 import lombok.Setter;
