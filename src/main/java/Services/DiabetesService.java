@@ -10,5 +10,6 @@ public class DiabetesService {
                                    char gender, boolean heredity, boolean insulinTherapy, boolean disability,
                                    String complications, String yearOfDiagnosis, double weight, double height, double BMI)
     {
+        String string;
     }
 }
